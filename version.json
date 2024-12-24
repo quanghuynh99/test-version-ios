@@ -167,6 +167,7 @@
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
       "releaseNotes": "Solve minor issues during unstable network connections.",
+      "currentVersion": "3.0.0",
       "version": "2.20.8",
       "wrapperType": "software",
       "currency": "USD",
